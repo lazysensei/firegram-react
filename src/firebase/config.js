@@ -4,7 +4,7 @@ import 'firebase/compat/firestore';
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBX_hj8kjEA6o5ctxJSJSisiOGowkajWb0",
+    apiKey: "booyakachax says the lazysensei",
     authDomain: "firegram-react-796ff.firebaseapp.com",
     projectId: "firegram-react-796ff",
     storageBucket: "firegram-react-796ff.appspot.com",
